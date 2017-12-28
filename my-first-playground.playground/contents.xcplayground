@@ -3,5 +3,6 @@
     <pages>
         <page name='numbers'/>
         <page name='string'/>
+        <page name='conrol flow'/>
     </pages>
 </playground>

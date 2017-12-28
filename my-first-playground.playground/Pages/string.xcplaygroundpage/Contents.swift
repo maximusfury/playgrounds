@@ -2,7 +2,7 @@
 
 import Foundation
 
-let letter = "Hello,"
+var letter = "Hello,"
 type(of: letter)
 
 let letter2 = "world!"
@@ -13,3 +13,7 @@ string.count
 
 let other = letter + " " + letter2
 
+ letter = "MOM"
+ var letter3 = "SPAGHETTI"
+
+var other1 = letter + " " + letter3
